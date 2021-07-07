@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "some secret phrase",
+  "mongoUri": "mongodb://sparta:Leshiy344Hod@127.0.0.1:2717/testdb?authSource=admin",
+  "baseUrl": "http://localhost:5000"
+}
